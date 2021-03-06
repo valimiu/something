@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+**SakimiChan Terms**
 
-You can use the [editor on GitHub](https://github.com/valimiu/something/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valimiu/something/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[126-127](https://mega.nz/folder/RA5QCArB#8yLFjPgK2IEXV7SjAY79ng)
+[124-125](https://mega.nz/folder/C1piQY4C#SqKNSRQUQES_IFgfiGPSyA)
+[122-123](https://mega.nz/folder/7WA3WYKK#ZFjF0MX6JDKH3ogbMwgKuQ)
